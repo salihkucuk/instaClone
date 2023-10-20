@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA45B791-171A-447C-8A45-8D07D320EDD0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/FeedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - de12213e1e6734f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/InstaClone/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - dcf3cebcbb3908f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/InstaClone/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - 225d7486723fd027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/InstaClone/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - c015e01d424336de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - 1771c8aebfcb20dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; InstaClone.FeedViewController"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/InstaClone/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "244C379E-81C3-4320-AEB2-9FC8AF190702 - 589fdde11a14890"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.FeedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;InstaClone.FeedViewController&gt;"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msk/Desktop/InstaClone/InstaClone/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
